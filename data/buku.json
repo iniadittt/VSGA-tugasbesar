@@ -1,0 +1,42 @@
+[
+    {
+        "judulBuku": "A Brief History of Time",
+        "namaPenulis": "Stephen Hawking",
+        "tahunTerbit": "1988",
+        "harga": 100000,
+        "pajak": 30,
+        "totalHarga": 130000
+    },
+    {
+        "judulBuku": "The Immortal Life of Henrietta Lacks",
+        "namaPenulis": "Rebecca Skloot",
+        "tahunTerbit": "2010",
+        "harga": 150000,
+        "pajak": 20,
+        "totalHarga": 180000
+    },
+    {
+        "judulBuku": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+        "namaPenulis": "Brian Greene",
+        "tahunTerbit": "1999",
+        "harga": 50000,
+        "pajak": 25,
+        "totalHarga": 62500
+    },
+    {
+        "judulBuku": "Sapiens: A Brief History of Humankind",
+        "namaPenulis": "Yuval Noah Harari",
+        "tahunTerbit": "2014",
+        "harga": 90000,
+        "pajak": 10,
+        "totalHarga": 99000
+    },
+    {
+        "judulBuku": "The Gene: An Intimate History",
+        "namaPenulis": "Siddhartha Mukherjee",
+        "tahunTerbit": "2016",
+        "harga": 150000,
+        "pajak": 20,
+        "totalHarga": 210000
+    }
+]
