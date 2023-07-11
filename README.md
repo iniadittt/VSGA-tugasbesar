@@ -1,10 +1,10 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Aplikasi_Pendaftaran_Rute_Penerbangan_0"></a>Aplikasi Arsip Buku</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="Tentang_Aplikasi_1"></a>Tentang Aplikasi</h2>
-<p class="has-line-data" data-line-start="2" data-line-end="3">Aplikasi Pendaftaran Rute Penerbangan dengan menggunakan PHP dan JSON file sebagai penyimpanan data.</p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Aplikasi Arsip Buku dengan menggunakan PHP dan JSON file sebagai penyimpanan data.</p>
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Features_4"></a>Features</h2>
 <ul>
-<li class="has-line-data" data-line-start="5" data-line-end="6">Menjadwalkan rute penerbangan yang tersedia</li>
-<li class="has-line-data" data-line-start="6" data-line-end="8">Menghitung total harga pada rute penerbangan</li>
+<li class="has-line-data" data-line-start="5" data-line-end="6">Melihat data buku yang tersedia</li>
+<li class="has-line-data" data-line-start="6" data-line-end="8">Menghitung total harga buku yang ingin dibeli atau tersedia</li>
 </ul>
 <h2 class="code-line" data-line-start=8 data-line-end=9 ><a id="Teknologi_8"></a>Teknologi</h2>
 <p class="has-line-data" data-line-start="9" data-line-end="10">Aplikasi ini dibuat menggunakan beberapa teknologi, yaitu:</p>
@@ -18,12 +18,12 @@
 <li class="has-line-data" data-line-start="17" data-line-end="19">VSCode sebagai code editor yang digunakan</li>
 </ul>
 <h2 class="code-line" data-line-start=19 data-line-end=20 ><a id="Installation_19"></a>Installation</h2>
-<p class="has-line-data" data-line-start="20" data-line-end="21">Cara instalasi aplikasi Kalkulator:</p>
+<p class="has-line-data" data-line-start="20" data-line-end="21">Cara instalasi Aplikasi Arsip Buku:</p>
 <ul>
 <li class="has-line-data" data-line-start="21" data-line-end="22">Clone github repository,</li>
-<li class="has-line-data" data-line-start="22" data-line-end="23">Copy file hasil download ke folder ‘C:/xampp/htcdocs/penerbangan’, jika belum ada silahkan buat folder ‘penerbangan’</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23">Copy file hasil download ke folder ‘C:/xampp/htcdocs/arsip-buku’, jika belum ada silahkan buat folder ‘arsip-buku’</li>
 <li class="has-line-data" data-line-start="23" data-line-end="24">Running Apache pada XAMPP</li>
-<li class="has-line-data" data-line-start="24" data-line-end="26">Buka URL pada web browser ‘localhost/penerbangan’</li>
+<li class="has-line-data" data-line-start="24" data-line-end="26">Buka URL pada web browser ‘localhost/arsip-buku’</li>
 </ul>
 <h2 class="code-line" data-line-start=26 data-line-end=27 ><a id="License_26"></a>License</h2>
 <p class="has-line-data" data-line-start="27" data-line-end="28">Aditya</p>
